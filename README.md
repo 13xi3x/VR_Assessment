@@ -16,4 +16,5 @@ The tetrominoes spawn on the right side of the player from the floor, and you ca
 
 ## Downloading
 
+The project has been created in UE 4.7
 After you download the files, you only need to open the main .uproject file in Unreal Engine. All other files will load during the initial launch!
